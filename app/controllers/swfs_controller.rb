@@ -1,0 +1,2 @@
+class SwfsController < ApplicationController
+end
